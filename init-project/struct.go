@@ -1,3 +1,5 @@
+// go:build linuxx
+// + build linux
 // 包声明
 package main
 
